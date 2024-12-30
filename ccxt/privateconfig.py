@@ -1,0 +1,9 @@
+#setup
+g_api_key='CqhcttAfckZBNBCy2EBLK5vBdG4P8nJi70dwgGCCccyRCoAvf2byDGHTw5BKtICa'
+#'CqhcttAfckZBNBCy2EBLK5vBdG4P8nJi70dwgGCCccyRCoAvf2byDGHTw5BKtICa'
+g_secret_key='FHUIyXyL6K58bwKyjd4sCDWVzcnXoAkYjR5LGdU5rIj3ihWypZsd7wYQ09WQMl'
+
+kraken_api_key='R5Ubm+YuBb5x96viGHRcaYH+nCpoUcSdbeOtxRoqy+o1TGPOkte8XgRt'
+kraken_secret_key='v8R/ewoEWeQC79yXMNpQ2QOPE/Z/IQJ16QwMzRnHS+p4K0F+RtUGx8sw2q7zrqZLHCC5B6UVyhEC0x4I1AO68g=='
+
+
